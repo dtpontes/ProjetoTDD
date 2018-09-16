@@ -1,0 +1,17 @@
+D:\ProjetoAulas\ProjetoTDD\CursoOnline\test\CursoOnline.DominioTest\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\ProjetoAulas\ProjetoTDD\CursoOnline\test\CursoOnline.DominioTest\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\ProjetoAulas\ProjetoTDD\CursoOnline\test\CursoOnline.DominioTest\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\ProjetoAulas\ProjetoTDD\CursoOnline\test\CursoOnline.DominioTest\bin\Debug\netcoreapp2.0\CursoOnline.DominioTest.deps.json
+D:\ProjetoAulas\ProjetoTDD\CursoOnline\test\CursoOnline.DominioTest\bin\Debug\netcoreapp2.0\CursoOnline.DominioTest.runtimeconfig.json
+D:\ProjetoAulas\ProjetoTDD\CursoOnline\test\CursoOnline.DominioTest\bin\Debug\netcoreapp2.0\CursoOnline.DominioTest.runtimeconfig.dev.json
+D:\ProjetoAulas\ProjetoTDD\CursoOnline\test\CursoOnline.DominioTest\bin\Debug\netcoreapp2.0\CursoOnline.DominioTest.dll
+D:\ProjetoAulas\ProjetoTDD\CursoOnline\test\CursoOnline.DominioTest\bin\Debug\netcoreapp2.0\CursoOnline.DominioTest.pdb
+D:\ProjetoAulas\ProjetoTDD\CursoOnline\test\CursoOnline.DominioTest\obj\Debug\netcoreapp2.0\CursoOnline.DominioTest.csprojAssemblyReference.cache
+D:\ProjetoAulas\ProjetoTDD\CursoOnline\test\CursoOnline.DominioTest\obj\Debug\netcoreapp2.0\CursoOnline.DominioTest.csproj.CoreCompileInputs.cache
+D:\ProjetoAulas\ProjetoTDD\CursoOnline\test\CursoOnline.DominioTest\obj\Debug\netcoreapp2.0\CursoOnline.DominioTest.AssemblyInfoInputs.cache
+D:\ProjetoAulas\ProjetoTDD\CursoOnline\test\CursoOnline.DominioTest\obj\Debug\netcoreapp2.0\CursoOnline.DominioTest.AssemblyInfo.cs
+D:\ProjetoAulas\ProjetoTDD\CursoOnline\test\CursoOnline.DominioTest\obj\Debug\netcoreapp2.0\CursoOnline.DominioTest.csproj.CopyComplete
+D:\ProjetoAulas\ProjetoTDD\CursoOnline\test\CursoOnline.DominioTest\obj\Debug\netcoreapp2.0\CursoOnline.DominioTest.dll
+D:\ProjetoAulas\ProjetoTDD\CursoOnline\test\CursoOnline.DominioTest\obj\Debug\netcoreapp2.0\CursoOnline.DominioTest.pdb
+D:\ProjetoAulas\ProjetoTDD\CursoOnline\test\CursoOnline.DominioTest\bin\Debug\netcoreapp2.0\CursoOnline.Domain.dll
+D:\ProjetoAulas\ProjetoTDD\CursoOnline\test\CursoOnline.DominioTest\bin\Debug\netcoreapp2.0\CursoOnline.Domain.pdb

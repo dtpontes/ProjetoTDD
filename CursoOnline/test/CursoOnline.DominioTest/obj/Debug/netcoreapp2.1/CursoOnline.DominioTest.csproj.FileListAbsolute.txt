@@ -12,3 +12,6 @@ D:\ProjetoAulas\ProjetoTDD\CursoOnline\test\CursoOnline.DominioTest\obj\Debug\ne
 D:\ProjetoAulas\ProjetoTDD\CursoOnline\test\CursoOnline.DominioTest\obj\Debug\netcoreapp2.1\CursoOnline.DominioTest.AssemblyInfo.cs
 D:\ProjetoAulas\ProjetoTDD\CursoOnline\test\CursoOnline.DominioTest\obj\Debug\netcoreapp2.1\CursoOnline.DominioTest.dll
 D:\ProjetoAulas\ProjetoTDD\CursoOnline\test\CursoOnline.DominioTest\obj\Debug\netcoreapp2.1\CursoOnline.DominioTest.pdb
+D:\ProjetoAulas\ProjetoTDD\CursoOnline\test\CursoOnline.DominioTest\bin\Debug\netcoreapp2.1\CursoOnline.Dominio.dll
+D:\ProjetoAulas\ProjetoTDD\CursoOnline\test\CursoOnline.DominioTest\bin\Debug\netcoreapp2.1\CursoOnline.Dominio.pdb
+D:\ProjetoAulas\ProjetoTDD\CursoOnline\test\CursoOnline.DominioTest\obj\Debug\netcoreapp2.1\CursoOnline.DominioTest.csproj.CopyComplete

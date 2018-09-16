@@ -1,0 +1,9 @@
+D:\ProjetoAulas\ProjetoTDD\CursoOnline\src\CursoOnline.Domain\obj\Debug\netcoreapp2.0\CursoOnline.Domain.csprojAssemblyReference.cache
+D:\ProjetoAulas\ProjetoTDD\CursoOnline\src\CursoOnline.Domain\obj\Debug\netcoreapp2.0\CursoOnline.Domain.csproj.CoreCompileInputs.cache
+D:\ProjetoAulas\ProjetoTDD\CursoOnline\src\CursoOnline.Domain\obj\Debug\netcoreapp2.0\CursoOnline.Domain.AssemblyInfoInputs.cache
+D:\ProjetoAulas\ProjetoTDD\CursoOnline\src\CursoOnline.Domain\obj\Debug\netcoreapp2.0\CursoOnline.Domain.AssemblyInfo.cs
+D:\ProjetoAulas\ProjetoTDD\CursoOnline\src\CursoOnline.Domain\bin\Debug\netcoreapp2.0\CursoOnline.Domain.deps.json
+D:\ProjetoAulas\ProjetoTDD\CursoOnline\src\CursoOnline.Domain\bin\Debug\netcoreapp2.0\CursoOnline.Domain.dll
+D:\ProjetoAulas\ProjetoTDD\CursoOnline\src\CursoOnline.Domain\bin\Debug\netcoreapp2.0\CursoOnline.Domain.pdb
+D:\ProjetoAulas\ProjetoTDD\CursoOnline\src\CursoOnline.Domain\obj\Debug\netcoreapp2.0\CursoOnline.Domain.dll
+D:\ProjetoAulas\ProjetoTDD\CursoOnline\src\CursoOnline.Domain\obj\Debug\netcoreapp2.0\CursoOnline.Domain.pdb

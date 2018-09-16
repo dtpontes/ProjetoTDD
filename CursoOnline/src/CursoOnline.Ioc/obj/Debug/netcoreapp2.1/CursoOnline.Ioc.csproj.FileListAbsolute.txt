@@ -1,0 +1,14 @@
+D:\ProjetoAulas\ProjetoTDD\CursoOnline\src\CursoOnline.Ioc\bin\Debug\netcoreapp2.1\CursoOnline.Ioc.deps.json
+D:\ProjetoAulas\ProjetoTDD\CursoOnline\src\CursoOnline.Ioc\bin\Debug\netcoreapp2.1\CursoOnline.Ioc.dll
+D:\ProjetoAulas\ProjetoTDD\CursoOnline\src\CursoOnline.Ioc\obj\Debug\netcoreapp2.1\CursoOnline.Ioc.csproj.CoreCompileInputs.cache
+D:\ProjetoAulas\ProjetoTDD\CursoOnline\src\CursoOnline.Ioc\obj\Debug\netcoreapp2.1\CursoOnline.Ioc.AssemblyInfoInputs.cache
+D:\ProjetoAulas\ProjetoTDD\CursoOnline\src\CursoOnline.Ioc\obj\Debug\netcoreapp2.1\CursoOnline.Ioc.AssemblyInfo.cs
+D:\ProjetoAulas\ProjetoTDD\CursoOnline\src\CursoOnline.Ioc\obj\Debug\netcoreapp2.1\CursoOnline.Ioc.csprojAssemblyReference.cache
+D:\ProjetoAulas\ProjetoTDD\CursoOnline\src\CursoOnline.Ioc\bin\Debug\netcoreapp2.1\CursoOnline.Ioc.pdb
+D:\ProjetoAulas\ProjetoTDD\CursoOnline\src\CursoOnline.Ioc\bin\Debug\netcoreapp2.1\CursoOnline.Dados.dll
+D:\ProjetoAulas\ProjetoTDD\CursoOnline\src\CursoOnline.Ioc\bin\Debug\netcoreapp2.1\CursoOnline.Dominio.dll
+D:\ProjetoAulas\ProjetoTDD\CursoOnline\src\CursoOnline.Ioc\bin\Debug\netcoreapp2.1\CursoOnline.Dados.pdb
+D:\ProjetoAulas\ProjetoTDD\CursoOnline\src\CursoOnline.Ioc\bin\Debug\netcoreapp2.1\CursoOnline.Dominio.pdb
+D:\ProjetoAulas\ProjetoTDD\CursoOnline\src\CursoOnline.Ioc\obj\Debug\netcoreapp2.1\CursoOnline.Ioc.csproj.CopyComplete
+D:\ProjetoAulas\ProjetoTDD\CursoOnline\src\CursoOnline.Ioc\obj\Debug\netcoreapp2.1\CursoOnline.Ioc.dll
+D:\ProjetoAulas\ProjetoTDD\CursoOnline\src\CursoOnline.Ioc\obj\Debug\netcoreapp2.1\CursoOnline.Ioc.pdb
